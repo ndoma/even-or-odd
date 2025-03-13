@@ -1,4 +1,6 @@
 # even-or-odd
+The most efficient and beautiful way to determine if a number is odd or even.
+
 ### Usage
 ```
 $ make run
